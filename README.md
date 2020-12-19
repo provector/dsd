@@ -1,3 +1,7 @@
+# Quick Fix
+
+Added quick fix for externflag issue as per https://github.com/N0YKG isnstructions. Tested on Ubuntu 20 and newest Kali (Dec 2020)
+
 [![Build Status](https://travis-ci.org/szechyjs/dsd.svg?branch=master)](https://travis-ci.org/szechyjs/dsd)
 
 # Digital Speech Decoder 1.7.0-dev
